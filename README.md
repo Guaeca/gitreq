@@ -2,7 +2,7 @@
     <h2> GitReg: Structured Requirement Repository</h2>
 
 
-_GitReg is a centralized repository for organizing and storing structured engineering requirements \n that can be used as starting points for new projects._
+_GitReg is a centralized repository for organizing and storing structured engineering requirements <br> that can be used as starting points for new projects._
 
 ---
 
