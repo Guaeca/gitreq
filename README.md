@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> GitReg: Structured Requirement Repository</h2>
+    <h1> GitReg:</h1>
 
 
 _GitReg is a centralized repository for organizing and storing structured engineering requirements <br> that can be used as starting points for new projects._
