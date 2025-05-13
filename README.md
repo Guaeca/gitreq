@@ -20,6 +20,7 @@ and the best format known follows mission-critical engineering styles like ISO, 
 
 **All in natural language, not model-based.**
 <br>
+
 ## **🎯 Purpose:**  
 - Provide a structured repository of product/project requirements to serve as starting points for new projects.  
 - Support multi-agent testing by providing structured requirements as initial datasets.  
@@ -31,17 +32,23 @@ and the best format known follows mission-critical engineering styles like ISO, 
 - `requirements/`: Organized by project.  
 - `templates/`: Standardized templates for structured requirements in CSV/JSON/Markdown formats.  
 - `community/`: Discussion threads, proposals, and community-contributed requirements.
+
 <br>
+
 ## **✅ Why GitReg?**  
 - **Centralized Repository:** A single source of truth for all structured requirements.  
 - **Scalable Structure:** Expandable to multiple projects, data formats, and agent datasets.  
 - **Version control:** Ensures all changes are tracked and accessible.  
 - **Community-Driven:** Encourages community participation in refining and evolving structured requirements.
+
 <br>
+
 ## **💥 Why GReq?**  
 - **Free:** GReq is a free tool (basic plan) for requirements elicitation, analysis, and improvements.  
 - **Engineering Quality:** GReq (enterprise plan) is already in use by companies in mission-critical domains like Automotive, Aerospatial, and more.  
+
 <br>
+
 ## **🔮 Future Directions:**  
 -  Integrate with GReq for direct data import and export.  
 
