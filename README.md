@@ -1,8 +1,11 @@
-## GitReg: Structured Requirement Repository
+<div align="center">
+    <h1> GitReg: Structured Requirement Repository</h1>
+
 
 _GitReg is a centralized repository for organizing and storing structured engineering requirements that can be used as starting points for new projects._
 
 ---
+</div>
 
 #**🌐 Vision**  
 As LLMs and Agents keep evolving, the last piece for us as humans is to clearly describe our desires and provide them to Agents, Robots, and Machines to develop or produce for us.  
