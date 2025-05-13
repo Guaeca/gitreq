@@ -12,8 +12,13 @@ _A centralized repository for organizing and storing structured engineering requ
 
 
 ## **🌐 Vision**  
-As LLMs and Agents keep evolving, the last piece for us as humans is to clearly describe our desires and provide them to Agents, Robots, and Machines to develop or produce for us.  
-At Guaeca, we believe that well-structured descriptions of our desires (product, service, material) will be the output of the automatic agentic/robotic workflow, and the best format known follows mission-critical engineering styles like ISO, EARS — in natural language, not model-based.
+As LLMs and Agents keep evolving, the last piece for us as humans is to clearly describe our desires 
+and provide them to Agents, Robots, and Machines to develop or produce for us.
+
+At Guaeca, we believe that well-structured descriptions of our desires (product, service, material) 
+will be the output of the automatic agentic/robotic workflow,
+and the best format known follows mission-critical engineering styles like ISO, EARS
+**All in natural language, not model-based.**
 
 ## **🎯 Purpose:**  
 - Provide a structured repository of product/project requirements to serve as starting points for new projects.  
