@@ -19,6 +19,7 @@ will be the output of the automatic agentic/robotic workflow,
 and the best format known follows mission-critical engineering styles like ISO, EARS
 
 **All in natural language, not model-based.**
+
 <br>
 
 ## **🎯 Purpose:**  
@@ -27,7 +28,9 @@ and the best format known follows mission-critical engineering styles like ISO, 
 - Increase visibility and usage of [GReq](https://greq.guaeca.com) for updating and managing requirements effectively.  
 - Establish a community hub for discussing and evolving structured requirements.  
 - Educate users on the benefits and application of structured requirements to improve project outcomes.  
+
 <br>
+
 ## **📂 Structure:**  
 - `requirements/`: Organized by project.  
 - `templates/`: Standardized templates for structured requirements in CSV/JSON/Markdown formats.  
@@ -52,11 +55,11 @@ and the best format known follows mission-critical engineering styles like ISO, 
 ## **🔮 Future Directions:**  
 -  Integrate with GReq for direct data import and export.  
 
-
+<br>
 ---
+<br>
 
-
-** Get Started:**  
+**Get Started:**  
 1. [Explore the `requirements` folder](#) to search for project/product/service/material requirements.  
 2. [Check out the `templates` folder](#) to understand the file structure.  
 3. Clone the repository if you want a local copy of it.  
