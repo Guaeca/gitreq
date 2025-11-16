@@ -1,0 +1,17 @@
+# GCloud ignore file - excludes files from deployment
+
+.git
+.gitignore
+
+node_modules/
+npm-debug.log
+
+.env
+.env.local
+
+frontend/
+docs/
+README.md
+
+*.log
+.DS_Store
